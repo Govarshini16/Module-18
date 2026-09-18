@@ -71,10 +71,9 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT
-```
+
 <img width="810" height="166" alt="image" src="https://github.com/user-attachments/assets/5869ea57-d6dd-4a17-adc8-a03eea1383d0" />
 
-```
 
 ##RESULT
 Thus, the python code is written and executed successfully.
